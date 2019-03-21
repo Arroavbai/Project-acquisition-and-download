@@ -1,1 +1,1 @@
-<p>jeverything starts githug </p>
+<p>everything starts github </p>
